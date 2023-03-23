@@ -1,0 +1,16 @@
+table {
+    border: 1px solid #853a3a;
+    margin: 0px auto
+}
+td {
+	border: 1px solid #6b2d2d;
+	padding: 5px;
+}
+th{
+    border: 1px solid #6b2d2d;
+	padding: 5px;
+}
+
+h1 {
+    text-align: center;
+}
